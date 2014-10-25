@@ -3,11 +3,11 @@
     <!--do not extends from api,api-util can be deploy only-->
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>queue-wrapper</artifactId>
+    <artifactId>queue-adapter</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <url>http://maven.apache.org</url>
-    <name>queue-wrapper</name>
+    <name>queue-adapter</name>
 
     <parent>
         <groupId>com.sfebiz</groupId>
